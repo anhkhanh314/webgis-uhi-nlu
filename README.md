@@ -14,7 +14,7 @@ Xây dựng hệ thống WebGIS giám sát nhiệt độ bề mặt và hiệu �
 ---
 
 ## Thành viên
-- Anh Khánh (Integrator)
+- Anh Khánh 
 - Công
 - Hữu
 - QHuy
